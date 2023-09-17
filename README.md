@@ -28,4 +28,4 @@ PWM is commonly used in various applications, including motor control (to regula
 ### Frequency:
 The frequency of the PWM signal determines how fast the on-off switching occurs. Higher frequencies can provide smoother control but may require more complex circuitry. Lower frequencies are easier to generate but can result in more noticeable flicker or ripple in the output.
 
-PWM is a versatile technique that allows for precise control of electrical devices and is widely used in various electronic systems for tasks such as regulation, modulation, and control.
+### PWM is a versatile technique that allows for precise control of electrical devices and is widely used in various electronic systems for tasks such as regulation, modulation, and control.
