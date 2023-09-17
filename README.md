@@ -7,9 +7,7 @@ PWM stands for Pulse Width Modulation. It is a technique used in electronics and
 </p>
 
 ### Wave form (different duty cycles)
-<p align="center">
-  <img width="600" height="400" src="https://github.com/Mohamedfares10/2_Sequance_Detector_Checker/assets/132834702/e8f39652-063d-449b-b368-ada36b10a3d2">
-</p>
+![image](https://github.com/Mohamedfares10/2_Sequance_Detector_Checker/assets/132834702/e8f39652-063d-449b-b368-ada36b10a3d2)
 
 ## Here's how PWM works:
 
