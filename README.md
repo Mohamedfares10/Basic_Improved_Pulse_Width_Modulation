@@ -1,6 +1,10 @@
 # Basic_Improved_Pulse_Width_Modulation
 ## PWM:
 PWM stands for Pulse Width Modulation. It is a technique used in electronics and electrical engineering to control the average voltage or power supplied to a load by rapidly switching a signal on and off at a fixed frequency while varying the width of the on-time, also known as the duty cycle.
+## Improved PWM:
+<p align="center">
+  <img width="600" height="400" src="https://github.com/Mohamedfares10/Basic_Improved_Pulse_Width_Modulation/assets/132834702/aa93b7f7-d2bd-4d7d-839c-0a6b5ed1341b">
+</p>
 
 ## Here's how PWM works:
 
