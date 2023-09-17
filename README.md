@@ -6,6 +6,11 @@ PWM stands for Pulse Width Modulation. It is a technique used in electronics and
   <img width="600" height="400" src="https://github.com/Mohamedfares10/Basic_Improved_Pulse_Width_Modulation/assets/132834702/aa93b7f7-d2bd-4d7d-839c-0a6b5ed1341b">
 </p>
 
+### Wave form (different duty cycles)
+<p align="center">
+  <img width="600" height="400" src="https://github.com/Mohamedfares10/2_Sequance_Detector_Checker/assets/132834702/e8f39652-063d-449b-b368-ada36b10a3d2">
+</p>
+
 ## Here's how PWM works:
 
 Pulse Generation: A PWM signal consists of a series of pulses. The signal generator generates a high-frequency square wave signal with a fixed period (T).
